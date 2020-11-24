@@ -1,0 +1,1 @@
+This document is to tell others what the repository is about. So, in this case it is about a portofolio in making.
